@@ -1,2 +1,7 @@
 lazy-lock.json
+home/.config/fish/completions
+home/.config/fish/functions
+home/.config/fish/themes
+home/.config/fish/conf.d
+home/.config/fish/fish_variables
 *.userdb
