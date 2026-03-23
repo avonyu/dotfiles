@@ -3,6 +3,7 @@
     name = Foryoung Yu
 [core]
     editor = nvim
+    autocrlf = true
 [alias]
     ci = commit
     ca = commit --amend
