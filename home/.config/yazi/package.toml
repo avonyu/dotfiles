@@ -1,12 +1,34 @@
 [[plugin.deps]]
 use = "Lil-Dank/lazygit"
 rev = "8c4086c"
-hash = "337b5aa2662d0500625d3807c695229a"
+hash = "85316b5e9abeae2531d3e5d02a094381"
 
 [[plugin.deps]]
 use = "yazi-rs/plugins:git"
-rev = "442d908"
-hash = "c57fc395339dea3ef02fffc6a0cefa4e"
+rev = "e84f4fe"
+hash = "26db011a778f261d730d4f5f8bf24b3f"
 
-[flavor]
-deps = []
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-mocha"
+rev = "1a419b2"
+hash = "c40e434318a8ceffd01842f8dfb2390e"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-macchiato"
+rev = "1a419b2"
+hash = "c34feed32d555e79ab9a0c0a7bdda2be"
+
+[[flavor.deps]]
+use = "dangooddd/kanagawa"
+rev = "d98f0c3"
+hash = "cada780385f75abbcfbf5343256b441"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-latte"
+rev = "d3fd3a5"
+hash = "a4d508772dc7b20d739a2f9a1d2d396f"
+
+[[flavor.deps]]
+use = "yazi-rs/flavors:catppuccin-frappe"
+rev = "d3fd3a5"
+hash = "d659c6fde5148fb5c066518d7fdecddc"
